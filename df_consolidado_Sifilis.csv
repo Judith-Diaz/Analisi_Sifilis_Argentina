@@ -1,0 +1,451 @@
+id_sexo,sexo,id_jurisdiccion,jurisdiccion,anio,jurisdiccion_tasa_sifilis
+3.0,Ambos sexos,200.0,Arg,2018.0,34.7
+3.0,Ambos sexos,200.0,Arg,2019.0,56.1
+3.0,Ambos sexos,200.0,Arg,2020.0,22.8
+3.0,Ambos sexos,2.0,Caba,2018.0,37.8
+3.0,Ambos sexos,2.0,Caba,2019.0,50.8
+3.0,Ambos sexos,2.0,Caba,2020.0,19.8
+3.0,Ambos sexos,6.0,Buenos Aires,2018.0,47.6
+3.0,Ambos sexos,6.0,Buenos Aires,2019.0,79.0
+3.0,Ambos sexos,6.0,Buenos Aires,2020.0,23.2
+3.0,Ambos sexos,10.0,Catamarca,2018.0,11.0
+3.0,Ambos sexos,10.0,Catamarca,2019.0,15.1
+3.0,Ambos sexos,10.0,Catamarca,2020.0,10.4
+3.0,Ambos sexos,22.0,Chaco,2018.0,32.4
+3.0,Ambos sexos,22.0,Chaco,2019.0,89.7
+3.0,Ambos sexos,22.0,Chaco,2020.0,41.4
+3.0,Ambos sexos,26.0,Chubut,2018.0,18.4
+3.0,Ambos sexos,26.0,Chubut,2019.0,23.2
+3.0,Ambos sexos,26.0,Chubut,2020.0,14.4
+3.0,Ambos sexos,14.0,Cordoba,2018.0,31.5
+3.0,Ambos sexos,14.0,Cordoba,2019.0,34.0
+3.0,Ambos sexos,14.0,Cordoba,2020.0,15.2
+3.0,Ambos sexos,18.0,Corrientes,2018.0,15.2
+3.0,Ambos sexos,18.0,Corrientes,2019.0,28.3
+3.0,Ambos sexos,18.0,Corrientes,2020.0,26.4
+3.0,Ambos sexos,30.0,Entre Rios,2018.0,89.8
+3.0,Ambos sexos,30.0,Entre Rios,2019.0,123.1
+3.0,Ambos sexos,30.0,Entre Rios,2020.0,39.0
+3.0,Ambos sexos,34.0,Formosa,2018.0,7.6
+3.0,Ambos sexos,34.0,Formosa,2019.0,14.3
+3.0,Ambos sexos,34.0,Formosa,2020.0,26.1
+3.0,Ambos sexos,38.0,Jujuy,2018.0,17.1
+3.0,Ambos sexos,38.0,Jujuy,2019.0,40.3
+3.0,Ambos sexos,38.0,Jujuy,2020.0,30.1
+3.0,Ambos sexos,42.0,La Pampa,2018.0,78.3
+3.0,Ambos sexos,42.0,La Pampa,2019.0,132.0
+3.0,Ambos sexos,42.0,La Pampa,2020.0,162.9
+3.0,Ambos sexos,46.0,La Rioja,2018.0,4.2
+3.0,Ambos sexos,46.0,La Rioja,2019.0,16.7
+3.0,Ambos sexos,46.0,La Rioja,2020.0,7.6
+3.0,Ambos sexos,50.0,Mendoza,2018.0,41.0
+3.0,Ambos sexos,50.0,Mendoza,2019.0,62.9
+3.0,Ambos sexos,50.0,Mendoza,2020.0,28.6
+3.0,Ambos sexos,54.0,Misiones,2018.0,10.6
+3.0,Ambos sexos,54.0,Misiones,2019.0,44.3
+3.0,Ambos sexos,54.0,Misiones,2020.0,18.3
+3.0,Ambos sexos,58.0,Neuquen,2018.0,17.8
+3.0,Ambos sexos,58.0,Neuquen,2019.0,33.3
+3.0,Ambos sexos,58.0,Neuquen,2020.0,19.6
+3.0,Ambos sexos,62.0,Rio Negro,2018.0,18.7
+3.0,Ambos sexos,62.0,Rio Negro,2019.0,33.3
+3.0,Ambos sexos,62.0,Rio Negro,2020.0,21.7
+3.0,Ambos sexos,66.0,Salta,2018.0,19.5
+3.0,Ambos sexos,66.0,Salta,2019.0,28.7
+3.0,Ambos sexos,66.0,Salta,2020.0,18.5
+3.0,Ambos sexos,70.0,San Juan,2018.0,36.8
+3.0,Ambos sexos,70.0,San Juan,2019.0,61.5
+3.0,Ambos sexos,70.0,San Juan,2020.0,41.6
+3.0,Ambos sexos,74.0,San Luis,2018.0,46.4
+3.0,Ambos sexos,74.0,San Luis,2019.0,90.0
+3.0,Ambos sexos,74.0,San Luis,2020.0,84.0
+3.0,Ambos sexos,78.0,Santa Cruz,2018.0,5.8
+3.0,Ambos sexos,78.0,Santa Cruz,2019.0,10.1
+3.0,Ambos sexos,78.0,Santa Cruz,2020.0,11.5
+3.0,Ambos sexos,82.0,Santa Fe,2018.0,5.5
+3.0,Ambos sexos,82.0,Santa Fe,2019.0,4.6
+3.0,Ambos sexos,82.0,Santa Fe,2020.0,4.0
+3.0,Ambos sexos,86.0,Santiago Del Estero,2018.0,18.3
+3.0,Ambos sexos,86.0,Santiago Del Estero,2019.0,37.0
+3.0,Ambos sexos,86.0,Santiago Del Estero,2020.0,17.8
+3.0,Ambos sexos,94.0,Tierra Del Fuego,2018.0,22.4
+3.0,Ambos sexos,94.0,Tierra Del Fuego,2019.0,29.0
+3.0,Ambos sexos,94.0,Tierra Del Fuego,2020.0,15.6
+3.0,Ambos sexos,90.0,Tucuman,2018.0,8.9
+3.0,Ambos sexos,90.0,Tucuman,2019.0,17.0
+3.0,Ambos sexos,90.0,Tucuman,2020.0,8.3
+2.0,Mujeres,200.0,Arg,2018.0,39.5
+2.0,Mujeres,200.0,Arg,2019.0,63.8
+2.0,Mujeres,200.0,Arg,2020.0,26.7
+2.0,Mujeres,2.0,Caba,2018.0,35.7
+2.0,Mujeres,2.0,Caba,2019.0,45.3
+2.0,Mujeres,2.0,Caba,2020.0,19.1
+2.0,Mujeres,6.0,Buenos Aires,2018.0,53.9
+2.0,Mujeres,6.0,Buenos Aires,2019.0,88.8
+2.0,Mujeres,6.0,Buenos Aires,2020.0,27.0
+2.0,Mujeres,10.0,Catamarca,2018.0,11.3
+2.0,Mujeres,10.0,Catamarca,2019.0,24.3
+2.0,Mujeres,10.0,Catamarca,2020.0,12.5
+2.0,Mujeres,22.0,Chaco,2018.0,38.5
+2.0,Mujeres,22.0,Chaco,2019.0,118.7
+2.0,Mujeres,22.0,Chaco,2020.0,50.2
+2.0,Mujeres,26.0,Chubut,2018.0,13.4
+2.0,Mujeres,26.0,Chubut,2019.0,22.1
+2.0,Mujeres,26.0,Chubut,2020.0,13.9
+2.0,Mujeres,14.0,Cordoba,2018.0,31.2
+2.0,Mujeres,14.0,Cordoba,2019.0,35.2
+2.0,Mujeres,14.0,Cordoba,2020.0,14.9
+2.0,Mujeres,18.0,Corrientes,2018.0,23.7
+2.0,Mujeres,18.0,Corrientes,2019.0,37.8
+2.0,Mujeres,18.0,Corrientes,2020.0,37.2
+2.0,Mujeres,30.0,Entre Rios,2018.0,97.9
+2.0,Mujeres,30.0,Entre Rios,2019.0,136.2
+2.0,Mujeres,30.0,Entre Rios,2020.0,53.5
+2.0,Mujeres,34.0,Formosa,2018.0,10.4
+2.0,Mujeres,34.0,Formosa,2019.0,19.6
+2.0,Mujeres,34.0,Formosa,2020.0,37.2
+2.0,Mujeres,38.0,Jujuy,2018.0,21.5
+2.0,Mujeres,38.0,Jujuy,2019.0,37.3
+2.0,Mujeres,38.0,Jujuy,2020.0,25.6
+2.0,Mujeres,42.0,La Pampa,2018.0,113.2
+2.0,Mujeres,42.0,La Pampa,2019.0,211.1
+2.0,Mujeres,42.0,La Pampa,2020.0,281.8
+2.0,Mujeres,46.0,La Rioja,2018.0,5.2
+2.0,Mujeres,46.0,La Rioja,2019.0,23.1
+2.0,Mujeres,46.0,La Rioja,2020.0,7.6
+2.0,Mujeres,50.0,Mendoza,2018.0,51.0
+2.0,Mujeres,50.0,Mendoza,2019.0,72.9
+2.0,Mujeres,50.0,Mendoza,2020.0,30.3
+2.0,Mujeres,54.0,Misiones,2018.0,14.6
+2.0,Mujeres,54.0,Misiones,2019.0,73.5
+2.0,Mujeres,54.0,Misiones,2020.0,22.0
+2.0,Mujeres,58.0,Neuquen,2018.0,15.7
+2.0,Mujeres,58.0,Neuquen,2019.0,30.3
+2.0,Mujeres,58.0,Neuquen,2020.0,19.8
+2.0,Mujeres,62.0,Rio Negro,2018.0,19.4
+2.0,Mujeres,62.0,Rio Negro,2019.0,30.3
+2.0,Mujeres,62.0,Rio Negro,2020.0,22.1
+2.0,Mujeres,66.0,Salta,2018.0,28.7
+2.0,Mujeres,66.0,Salta,2019.0,27.0
+2.0,Mujeres,66.0,Salta,2020.0,18.2
+2.0,Mujeres,70.0,San Juan,2018.0,53.4
+2.0,Mujeres,70.0,San Juan,2019.0,78.5
+2.0,Mujeres,70.0,San Juan,2020.0,47.0
+2.0,Mujeres,74.0,San Luis,2018.0,56.4
+2.0,Mujeres,74.0,San Luis,2019.0,91.3
+2.0,Mujeres,74.0,San Luis,2020.0,78.5
+2.0,Mujeres,78.0,Santa Cruz,2018.0,5.9
+2.0,Mujeres,78.0,Santa Cruz,2019.0,12.7
+2.0,Mujeres,78.0,Santa Cruz,2020.0,8.4
+2.0,Mujeres,82.0,Santa Fe,2018.0,5.8
+2.0,Mujeres,82.0,Santa Fe,2019.0,4.8
+2.0,Mujeres,82.0,Santa Fe,2020.0,4.0
+2.0,Mujeres,86.0,Santiago Del Estero,2018.0,28.1
+2.0,Mujeres,86.0,Santiago Del Estero,2019.0,58.8
+2.0,Mujeres,86.0,Santiago Del Estero,2020.0,30.9
+2.0,Mujeres,94.0,Tierra Del Fuego,2018.0,24.7
+2.0,Mujeres,94.0,Tierra Del Fuego,2019.0,26.5
+2.0,Mujeres,94.0,Tierra Del Fuego,2020.0,16.5
+2.0,Mujeres,90.0,Tucuman,2018.0,11.6
+2.0,Mujeres,90.0,Tucuman,2019.0,21.1
+2.0,Mujeres,90.0,Tucuman,2020.0,10.5
+1.0,Varones,200.0,Arg,2018.0,29.7
+1.0,Varones,200.0,Arg,2019.0,48.1
+1.0,Varones,200.0,Arg,2020.0,18.8
+1.0,Varones,2.0,Caba,2018.0,40.3
+1.0,Varones,2.0,Caba,2019.0,57.1
+1.0,Varones,2.0,Caba,2020.0,20.6
+1.0,Varones,6.0,Buenos Aires,2018.0,41.2
+1.0,Varones,6.0,Buenos Aires,2019.0,68.8
+1.0,Varones,6.0,Buenos Aires,2020.0,19.3
+1.0,Varones,10.0,Catamarca,2018.0,10.8
+1.0,Varones,10.0,Catamarca,2019.0,5.8
+1.0,Varones,10.0,Catamarca,2020.0,8.2
+1.0,Varones,22.0,Chaco,2018.0,26.3
+1.0,Varones,22.0,Chaco,2019.0,60.0
+1.0,Varones,22.0,Chaco,2020.0,32.5
+1.0,Varones,26.0,Chubut,2018.0,23.4
+1.0,Varones,26.0,Chubut,2019.0,24.3
+1.0,Varones,26.0,Chubut,2020.0,14.8
+1.0,Varones,14.0,Cordoba,2018.0,31.8
+1.0,Varones,14.0,Cordoba,2019.0,32.9
+1.0,Varones,14.0,Cordoba,2020.0,15.4
+1.0,Varones,18.0,Corrientes,2018.0,6.4
+1.0,Varones,18.0,Corrientes,2019.0,18.4
+1.0,Varones,18.0,Corrientes,2020.0,15.4
+1.0,Varones,30.0,Entre Rios,2018.0,81.4
+1.0,Varones,30.0,Entre Rios,2019.0,109.4
+1.0,Varones,30.0,Entre Rios,2020.0,24.1
+1.0,Varones,34.0,Formosa,2018.0,4.7
+1.0,Varones,34.0,Formosa,2019.0,9.0
+1.0,Varones,34.0,Formosa,2020.0,14.9
+1.0,Varones,38.0,Jujuy,2018.0,12.6
+1.0,Varones,38.0,Jujuy,2019.0,43.3
+1.0,Varones,38.0,Jujuy,2020.0,34.7
+1.0,Varones,42.0,La Pampa,2018.0,42.9
+1.0,Varones,42.0,La Pampa,2019.0,51.6
+1.0,Varones,42.0,La Pampa,2020.0,42.2
+1.0,Varones,46.0,La Rioja,2018.0,3.1
+1.0,Varones,46.0,La Rioja,2019.0,10.3
+1.0,Varones,46.0,La Rioja,2020.0,7.7
+1.0,Varones,50.0,Mendoza,2018.0,30.7
+1.0,Varones,50.0,Mendoza,2019.0,52.5
+1.0,Varones,50.0,Mendoza,2020.0,27.0
+1.0,Varones,54.0,Misiones,2018.0,6.7
+1.0,Varones,54.0,Misiones,2019.0,15.1
+1.0,Varones,54.0,Misiones,2020.0,14.6
+1.0,Varones,58.0,Neuquen,2018.0,19.9
+1.0,Varones,58.0,Neuquen,2019.0,36.2
+1.0,Varones,58.0,Neuquen,2020.0,19.4
+1.0,Varones,62.0,Rio Negro,2018.0,17.9
+1.0,Varones,62.0,Rio Negro,2019.0,36.4
+1.0,Varones,62.0,Rio Negro,2020.0,21.2
+1.0,Varones,66.0,Salta,2018.0,10.2
+1.0,Varones,66.0,Salta,2019.0,30.3
+1.0,Varones,66.0,Salta,2020.0,18.9
+1.0,Varones,70.0,San Juan,2018.0,19.8
+1.0,Varones,70.0,San Juan,2019.0,44.1
+1.0,Varones,70.0,San Juan,2020.0,36.1
+1.0,Varones,74.0,San Luis,2018.0,36.2
+1.0,Varones,74.0,San Luis,2019.0,88.8
+1.0,Varones,74.0,San Luis,2020.0,89.6
+1.0,Varones,78.0,Santa Cruz,2018.0,5.6
+1.0,Varones,78.0,Santa Cruz,2019.0,7.6
+1.0,Varones,78.0,Santa Cruz,2020.0,14.4
+1.0,Varones,82.0,Santa Fe,2018.0,5.1
+1.0,Varones,82.0,Santa Fe,2019.0,4.3
+1.0,Varones,82.0,Santa Fe,2020.0,4.0
+1.0,Varones,86.0,Santiago Del Estero,2018.0,8.4
+1.0,Varones,86.0,Santiago Del Estero,2019.0,14.9
+1.0,Varones,86.0,Santiago Del Estero,2020.0,4.5
+1.0,Varones,94.0,Tierra Del Fuego,2018.0,20.2
+1.0,Varones,94.0,Tierra Del Fuego,2019.0,31.3
+1.0,Varones,94.0,Tierra Del Fuego,2020.0,14.7
+1.0,Varones,90.0,Tucuman,2018.0,6.1
+1.0,Varones,90.0,Tucuman,2019.0,12.7
+1.0,Varones,90.0,Tucuman,2020.0,6.1
+3.0,Ambos sexos,200.0,Arg,2022.0,57.65350494
+3.0,Ambos sexos,2.0,Caba,2022.0,8.145251578
+3.0,Ambos sexos,6.0,Buenos Aires,2022.0,32.44620377
+3.0,Ambos sexos,10.0,Catamarca,2022.0,8.521194103
+3.0,Ambos sexos,22.0,Chaco,2022.0,80.14752357
+3.0,Ambos sexos,26.0,Chubut,2022.0,78.36769937
+3.0,Ambos sexos,14.0,Cordoba,2022.0,140.1034169
+3.0,Ambos sexos,18.0,Corrientes,2022.0,24.74543789
+3.0,Ambos sexos,30.0,Entre Rios,2022.0,11.69459667
+3.0,Ambos sexos,34.0,Formosa,2022.0,122.1722254
+3.0,Ambos sexos,38.0,Jujuy,2022.0,109.7232029
+3.0,Ambos sexos,42.0,La Pampa,2022.0,89.48128304
+3.0,Ambos sexos,46.0,La Rioja,2022.0,65.39072195
+3.0,Ambos sexos,50.0,Mendoza,2022.0,68.56936811
+3.0,Ambos sexos,54.0,Misiones,2022.0,78.23195775
+3.0,Ambos sexos,58.0,Neuquen,2022.0,29.67420078
+3.0,Ambos sexos,62.0,Rio Negro,2022.0,72.93965059
+3.0,Ambos sexos,66.0,Salta,2022.0,93.46447596
+3.0,Ambos sexos,70.0,San Juan,2022.0,109.8161332
+3.0,Ambos sexos,74.0,San Luis,2022.0,137.276925
+3.0,Ambos sexos,78.0,Santa Cruz,2022.0,69.30205535
+3.0,Ambos sexos,82.0,Santa Fe,2022.0,100.9749585
+3.0,Ambos sexos,86.0,Santiago Del Estero,2022.0,10.92082602
+3.0,Ambos sexos,94.0,Tierra Del Fuego,2022.0,70.88574207
+3.0,Ambos sexos,90.0,Tucuman,2022.0,46.88262275
+2.0,Mujeres,200.0,Arg,2022.0,62.14147189
+2.0,Mujeres,2.0,Caba,2022.0,3.984378783
+2.0,Mujeres,6.0,Buenos Aires,2022.0,37.78979181
+2.0,Mujeres,10.0,Catamarca,2022.0,5.213937328
+2.0,Mujeres,22.0,Chaco,2022.0,99.8178846
+2.0,Mujeres,26.0,Chubut,2022.0,83.12786634
+2.0,Mujeres,14.0,Cordoba,2022.0,141.1329868
+2.0,Mujeres,18.0,Corrientes,2022.0,27.37461818
+2.0,Mujeres,30.0,Entre Rios,2022.0,15.74937037
+2.0,Mujeres,34.0,Formosa,2022.0,151.1967857
+2.0,Mujeres,38.0,Jujuy,2022.0,116.2688497
+2.0,Mujeres,42.0,La Pampa,2022.0,106.7218426
+2.0,Mujeres,46.0,La Rioja,2022.0,75.46350871
+2.0,Mujeres,50.0,Mendoza,2022.0,63.4572561
+2.0,Mujeres,54.0,Misiones,2022.0,91.27679028
+2.0,Mujeres,58.0,Neuquen,2022.0,31.53100549
+2.0,Mujeres,62.0,Rio Negro,2022.0,73.66070267
+2.0,Mujeres,66.0,Salta,2022.0,91.00859495
+2.0,Mujeres,70.0,San Juan,2022.0,124.4394005
+2.0,Mujeres,74.0,San Luis,2022.0,159.2884607
+2.0,Mujeres,78.0,Santa Cruz,2022.0,78.19780832
+2.0,Mujeres,82.0,Santa Fe,2022.0,110.8463628
+2.0,Mujeres,86.0,Santiago Del Estero,2022.0,10.7680834
+2.0,Mujeres,94.0,Tierra Del Fuego,2022.0,58.25938872
+2.0,Mujeres,90.0,Tucuman,2022.0,44.67460477
+1.0,Varones,200.0,Arg,2022.0,52.99549378
+1.0,Varones,2.0,Caba,2022.0,12.75704585
+1.0,Varones,6.0,Buenos Aires,2022.0,26.9080324
+1.0,Varones,10.0,Catamarca,2022.0,11.82016331
+1.0,Varones,22.0,Chaco,2022.0,59.94025789
+1.0,Varones,26.0,Chubut,2022.0,73.63310744
+1.0,Varones,14.0,Cordoba,2022.0,139.0301436
+1.0,Varones,18.0,Corrientes,2022.0,22.04730569
+1.0,Varones,30.0,Entre Rios,2022.0,7.499073432
+1.0,Varones,34.0,Formosa,2022.0,92.85992212
+1.0,Varones,38.0,Jujuy,2022.0,103.0263013
+1.0,Varones,42.0,La Pampa,2022.0,71.9555868
+1.0,Varones,46.0,La Rioja,2022.0,55.22937606
+1.0,Varones,50.0,Mendoza,2022.0,73.84090786
+1.0,Varones,54.0,Misiones,2022.0,65.14445277
+1.0,Varones,58.0,Neuquen,2022.0,27.79371152
+1.0,Varones,62.0,Rio Negro,2022.0,72.2148234
+1.0,Varones,66.0,Salta,2022.0,95.833593
+1.0,Varones,70.0,San Juan,2022.0,94.97467763
+1.0,Varones,74.0,San Luis,2022.0,114.9256273
+1.0,Varones,78.0,Santa Cruz,2022.0,60.87631455
+1.0,Varones,82.0,Santa Fe,2022.0,90.60185682
+1.0,Varones,86.0,Santiago Del Estero,2022.0,11.0750668
+1.0,Varones,94.0,Tierra Del Fuego,2022.0,83.03945992
+1.0,Varones,90.0,Tucuman,2022.0,49.14423658
+3.0,Ambos sexos,200.0,Arg,2022.0,57.6
+3.0,Ambos sexos,200.0,Arg,2023.0,69.2
+3.0,Ambos sexos,6.0,Buenos Aires,2022.0,32.6
+3.0,Ambos sexos,6.0,Buenos Aires,2023.0,38.1
+3.0,Ambos sexos,2.0,Caba,2022.0,7.7
+3.0,Ambos sexos,2.0,Caba,2023.0,16.7
+3.0,Ambos sexos,10.0,Catamarca,2022.0,8.0
+3.0,Ambos sexos,10.0,Catamarca,2023.0,110.6
+3.0,Ambos sexos,22.0,Chaco,2022.0,78.3
+3.0,Ambos sexos,22.0,Chaco,2023.0,87.9
+3.0,Ambos sexos,26.0,Chubut,2022.0,79.8
+3.0,Ambos sexos,26.0,Chubut,2023.0,97.0
+3.0,Ambos sexos,14.0,Cordoba,2022.0,138.0
+3.0,Ambos sexos,14.0,Cordoba,2023.0,175.5
+3.0,Ambos sexos,18.0,Corrientes,2022.0,25.2
+3.0,Ambos sexos,18.0,Corrientes,2023.0,38.0
+3.0,Ambos sexos,30.0,Entre Rios,2022.0,11.3
+3.0,Ambos sexos,30.0,Entre Rios,2023.0,21.0
+3.0,Ambos sexos,34.0,Formosa,2022.0,121.0
+3.0,Ambos sexos,34.0,Formosa,2023.0,124.5
+3.0,Ambos sexos,38.0,Jujuy,2022.0,108.1
+3.0,Ambos sexos,38.0,Jujuy,2023.0,132.4
+3.0,Ambos sexos,42.0,La Pampa,2022.0,86.5
+3.0,Ambos sexos,42.0,La Pampa,2023.0,155.2
+3.0,Ambos sexos,46.0,La Rioja,2022.0,64.9
+3.0,Ambos sexos,46.0,La Rioja,2023.0,56.5
+3.0,Ambos sexos,50.0,Mendoza,2022.0,68.2
+3.0,Ambos sexos,50.0,Mendoza,2023.0,72.0
+3.0,Ambos sexos,54.0,Misiones,2022.0,77.3
+3.0,Ambos sexos,54.0,Misiones,2023.0,66.4
+3.0,Ambos sexos,58.0,Neuquen,2022.0,29.4
+3.0,Ambos sexos,58.0,Neuquen,2023.0,50.7
+3.0,Ambos sexos,62.0,Rio Negro,2022.0,73.5
+3.0,Ambos sexos,62.0,Rio Negro,2023.0,89.9
+3.0,Ambos sexos,66.0,Salta,2022.0,92.0
+3.0,Ambos sexos,66.0,Salta,2023.0,100.4
+3.0,Ambos sexos,70.0,San Juan,2022.0,107.1
+3.0,Ambos sexos,70.0,San Juan,2023.0,92.3
+3.0,Ambos sexos,74.0,San Luis,2022.0,135.2
+3.0,Ambos sexos,74.0,San Luis,2023.0,144.2
+3.0,Ambos sexos,78.0,Santa Cruz,2022.0,67.5
+3.0,Ambos sexos,78.0,Santa Cruz,2023.0,67.7
+3.0,Ambos sexos,82.0,Santa Fe,2022.0,100.4
+3.0,Ambos sexos,82.0,Santa Fe,2023.0,121.5
+3.0,Ambos sexos,86.0,Santiago Del Estero,2022.0,11.0
+3.0,Ambos sexos,86.0,Santiago Del Estero,2023.0,20.3
+3.0,Ambos sexos,94.0,Tierra Del Fuego,2022.0,73.6
+3.0,Ambos sexos,94.0,Tierra Del Fuego,2023.0,118.6
+3.0,Ambos sexos,90.0,Tucuman,2022.0,46.8
+3.0,Ambos sexos,90.0,Tucuman,2023.0,45.9
+2.0,Mujeres,200.0,Arg,2022.0,62.2
+2.0,Mujeres,200.0,Arg,2023.0,75.4
+2.0,Mujeres,2.0,Caba,2022.0,37.9
+2.0,Mujeres,2.0,Caba,2023.0,44.6
+2.0,Mujeres,6.0,Buenos Aires,2022.0,3.7
+2.0,Mujeres,6.0,Buenos Aires,2023.0,9.9
+2.0,Mujeres,10.0,Catamarca,2022.0,5.7
+2.0,Mujeres,10.0,Catamarca,2023.0,101.6
+2.0,Mujeres,22.0,Chaco,2022.0,97.7
+2.0,Mujeres,22.0,Chaco,2023.0,107.0
+2.0,Mujeres,26.0,Chubut,2022.0,84.7
+2.0,Mujeres,26.0,Chubut,2023.0,100.1
+2.0,Mujeres,14.0,Cordoba,2022.0,139.8
+2.0,Mujeres,14.0,Cordoba,2023.0,178.9
+2.0,Mujeres,18.0,Corrientes,2022.0,28.2
+2.0,Mujeres,18.0,Corrientes,2023.0,44.2
+2.0,Mujeres,30.0,Entre Rios,2022.0,15.5
+2.0,Mujeres,30.0,Entre Rios,2023.0,25.8
+2.0,Mujeres,34.0,Formosa,2022.0,148.9
+2.0,Mujeres,34.0,Formosa,2023.0,166.1
+2.0,Mujeres,38.0,Jujuy,2022.0,114.8
+2.0,Mujeres,38.0,Jujuy,2023.0,137.2
+2.0,Mujeres,42.0,La Pampa,2022.0,102.9
+2.0,Mujeres,42.0,La Pampa,2023.0,195.5
+2.0,Mujeres,46.0,La Rioja,2022.0,75.0
+2.0,Mujeres,46.0,La Rioja,2023.0,82.3
+2.0,Mujeres,50.0,Mendoza,2022.0,62.9
+2.0,Mujeres,50.0,Mendoza,2023.0,67.6
+2.0,Mujeres,54.0,Misiones,2022.0,91.0
+2.0,Mujeres,54.0,Misiones,2023.0,77.3
+2.0,Mujeres,58.0,Neuquen,2022.0,31.5
+2.0,Mujeres,58.0,Neuquen,2023.0,52.5
+2.0,Mujeres,62.0,Rio Negro,2022.0,74.4
+2.0,Mujeres,62.0,Rio Negro,2023.0,95.9
+2.0,Mujeres,66.0,Salta,2022.0,88.7
+2.0,Mujeres,66.0,Salta,2023.0,104.3
+2.0,Mujeres,70.0,San Juan,2022.0,120.5
+2.0,Mujeres,70.0,San Juan,2023.0,111.9
+2.0,Mujeres,74.0,San Luis,2022.0,154.7
+2.0,Mujeres,74.0,San Luis,2023.0,173.6
+2.0,Mujeres,78.0,Santa Cruz,2022.0,75.0
+2.0,Mujeres,78.0,Santa Cruz,2023.0,81.6
+2.0,Mujeres,82.0,Santa Fe,2022.0,110.4
+2.0,Mujeres,82.0,Santa Fe,2023.0,133.3
+2.0,Mujeres,86.0,Santiago Del Estero,2022.0,10.6
+2.0,Mujeres,86.0,Santiago Del Estero,2023.0,26.7
+2.0,Mujeres,94.0,Tierra Del Fuego,2022.0,60.5
+2.0,Mujeres,94.0,Tierra Del Fuego,2023.0,112.7
+2.0,Mujeres,90.0,Tucuman,2022.0,46.0
+2.0,Mujeres,90.0,Tucuman,2023.0,43.8
+1.0,Varones,200.0,Arg,2022.0,52.9
+1.0,Varones,200.0,Arg,2023.0,62.8
+1.0,Varones,2.0,Caba,2022.0,27.0
+1.0,Varones,2.0,Caba,2023.0,31.4
+1.0,Varones,6.0,Buenos Aires,2022.0,12.1
+1.0,Varones,6.0,Buenos Aires,2023.0,24.3
+1.0,Varones,10.0,Catamarca,2022.0,10.4
+1.0,Varones,10.0,Catamarca,2023.0,119.6
+1.0,Varones,22.0,Chaco,2022.0,58.3
+1.0,Varones,22.0,Chaco,2023.0,68.2
+1.0,Varones,26.0,Chubut,2022.0,74.9
+1.0,Varones,26.0,Chubut,2023.0,94.0
+1.0,Varones,14.0,Cordoba,2022.0,136.2
+1.0,Varones,14.0,Cordoba,2023.0,171.9
+1.0,Varones,18.0,Corrientes,2022.0,22.0
+1.0,Varones,18.0,Corrientes,2023.0,31.7
+1.0,Varones,30.0,Entre Rios,2022.0,7.1
+1.0,Varones,30.0,Entre Rios,2023.0,16.0
+1.0,Varones,34.0,Formosa,2022.0,92.9
+1.0,Varones,34.0,Formosa,2023.0,82.5
+1.0,Varones,38.0,Jujuy,2022.0,101.2
+1.0,Varones,38.0,Jujuy,2023.0,127.4
+1.0,Varones,42.0,La Pampa,2022.0,69.7
+1.0,Varones,42.0,La Pampa,2023.0,114.2
+1.0,Varones,46.0,La Rioja,2022.0,54.7
+1.0,Varones,46.0,La Rioja,2023.0,30.5
+1.0,Varones,50.0,Mendoza,2022.0,73.6
+1.0,Varones,50.0,Mendoza,2023.0,76.6
+1.0,Varones,54.0,Misiones,2022.0,63.6
+1.0,Varones,54.0,Misiones,2023.0,55.4
+1.0,Varones,58.0,Neuquen,2022.0,27.2
+1.0,Varones,58.0,Neuquen,2023.0,48.8
+1.0,Varones,62.0,Rio Negro,2022.0,72.5
+1.0,Varones,62.0,Rio Negro,2023.0,83.8
+1.0,Varones,66.0,Salta,2022.0,95.3
+1.0,Varones,66.0,Salta,2023.0,96.4
+1.0,Varones,70.0,San Juan,2022.0,93.5
+1.0,Varones,70.0,San Juan,2023.0,72.5
+1.0,Varones,74.0,San Luis,2022.0,115.3
+1.0,Varones,74.0,San Luis,2023.0,114.3
+1.0,Varones,78.0,Santa Cruz,2022.0,60.4
+1.0,Varones,78.0,Santa Cruz,2023.0,54.5
+1.0,Varones,82.0,Santa Fe,2022.0,89.9
+1.0,Varones,82.0,Santa Fe,2023.0,109.0
+1.0,Varones,86.0,Santiago Del Estero,2022.0,11.5
+1.0,Varones,86.0,Santiago Del Estero,2023.0,14.0
+1.0,Varones,94.0,Tierra Del Fuego,2022.0,86.3
+1.0,Varones,94.0,Tierra Del Fuego,2023.0,124.3
+1.0,Varones,90.0,Tucuman,2022.0,47.6
+1.0,Varones,90.0,Tucuman,2023.0,47.9
