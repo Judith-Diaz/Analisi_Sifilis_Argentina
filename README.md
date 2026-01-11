@@ -1,8 +1,8 @@
-# 📊 Análisis de Sífilis en Argentina (2019–2024)
+# 📊 Análisis de Sífilis en Argentina (2019–2023)
 
 ##  Descripción del proyecto
 
-Este proyecto de **Data Analytics** analiza la evolución de los **casos y tasas de sífilis en Argentina** desde el año **2019 hasta 2024**, con un enfoque tanto **nacional** como **provincial**, incorporando además la **segmentación por sexo** (mujeres, varones y ambos sexos).
+Este proyecto de **Data Analytics** analiza la evolución de los **casos y tasas de sífilis en Argentina** desde el año **2019 hasta 2023**, con un enfoque tanto **nacional** como **provincial**, incorporando además la **segmentación por sexo** (mujeres, varones y ambos sexos).
 
 El objetivo principal es **visualizar, comprender y comunicar** cómo se comportó la tasa de sífilis a lo largo del tiempo, identificar **tendencias**, **diferencias regionales** y **brechas por sexo**, facilitando la toma de decisiones y el análisis epidemiológico.
 
@@ -79,10 +79,20 @@ Este proyecto forma parte de mi **portfolio personal**, orientado a demostrar ha
 
 ---
 
-## 📎 Nota
+##  Nota
 
 Los datos utilizados tienen fines **educativos y analíticos** para  sumar al porfolio personal.
 
----
-
 *Proyecto realizado con foco en el análisis y ver ocn claridad los resultados.*
+
+El análisis por género evidencia no solo una problemática sanitaria, sino también desigualdades en el acceso y uso del sistema de salud, lo que impacta directamente en la calidad y representatividad de los datos(
+El registro por género puede incluir:
+
+Mujeres cis
+
+Mujeres trans
+
+Travestis
+
+Personas que se autoperciben mujeres
+).
