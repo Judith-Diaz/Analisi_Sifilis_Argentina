@@ -71,6 +71,7 @@ El dashboard fue diseñado priorizando la **claridad visual** de lso resultados.
 Este proyecto forma parte de mi **portfolio personal**, orientado a demostrar habilidades en:
 
 * Limpieza y modelado de datos
+* Consolidacion de diferentes csv en uno solo
 * Creación de medidas DAX
 * Análisis exploratorio
 * Visualización de datos
