@@ -13,7 +13,7 @@ Realice sugerencias .Las encontras detalladas en el PDF de mi Porfolio web https
 ---
 
 
-## 🎯 Objetivos
+##  Objetivos
 
 * Analizar la evolución temporal de la tasa de sífilis en Argentina.
 * Comparar los valores a nivel **nacional vs. provincial**.
@@ -23,7 +23,7 @@ Realice sugerencias .Las encontras detalladas en el PDF de mi Porfolio web https
 
 ---
 
-## 📁 Alcance del análisis
+##  Alcance del análisis
 
 * **Período:** 2019 – 2024 ( no hay registros del año 2021 debido a que el sistema de salud estuvo enfocado casi exclusivamente en COVID. )
 * **Jurisdicción:** Argentina (total país y provincias)
