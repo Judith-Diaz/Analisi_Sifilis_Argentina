@@ -37,7 +37,7 @@ Realice sugerencias .Las encontras detalladas en el PDF de mi Porfolio web https
 ---
 
 ##  Herramientas utilizadas
-* **Google colab Python**  → Limpieza y unificacion cvs
+* **Google Colab Python**  → Limpieza y unificacion cvs
 * **Power BI Desktop** → Modelado, medidas DAX y visualizaciones
 * **Excel / CSV** → Fuente de datos
 * **GitHub** → Versionado y documentación del proyecto
